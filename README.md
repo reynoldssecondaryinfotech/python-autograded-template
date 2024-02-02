@@ -1,8 +1,11 @@
 # Exercise
 
+Input
 ```plaintext
 
 ```
+
+Output
 ```plaintext
 
 ```
